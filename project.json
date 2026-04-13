@@ -1,0 +1,25 @@
+{
+  "overview": "A cinematic Spider-Man inspired portfolio website with a real YouTube video background, neon cyan and red glow effects, advanced animations powered by Framer Motion and GSAP, and a working contact form via Formspree.",
+  "features": [
+    "Full-screen Spider-Man cinematic YouTube video background",
+    "Neon cyan and red glow effects on text, buttons, and interactive elements",
+    "Cinematic scroll-triggered animations across all 5 sections",
+    "Hero section with GSAP stagger and mouse parallax",
+    "Working contact form with Formspree (submissions to rajeshkutty2k5@gmail.com)",
+    "Projects showcase with animated cards",
+    "Skills section with animated skill bars and badges",
+    "Responsive design for all screen sizes"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "spider-man",
+    "animations",
+    "framer-motion",
+    "gsap",
+    "neon",
+    "dark-theme",
+    "contact-form"
+  ],
+  "last_updated": "2026-04-13T07:32:59.415Z"
+}
